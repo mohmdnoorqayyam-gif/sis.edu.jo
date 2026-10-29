@@ -1,0 +1,23 @@
+Package: com.mohmdnoorqayyam.sistheme
+Name: Al Shouf School Theme
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A classic iOS 6 theme for Al Shouf International Schools!
+Maintainer: mohmdnoorqayyam-gif
+Author: mohmdnoorqayyam-gif
+Section: Themes
+Filename: ./debs/sistheme.deb
+Size: 0
+MD5sum: 0
+
+Package: com.mohmdnoorqayyam.sisapp
+Name: Al Shouf School App
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Standalone app with bottom tab menu for the SIS website on iOS 6!
+Maintainer: mohmdnoorqayyam-gif
+Author: mohmdnoorqayyam-gif
+Section: Applications
+Filename: ./debs/sisapp.deb
+Size: 0
+MD5sum: 0
