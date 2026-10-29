@@ -1,0 +1,8 @@
+Origin: Al Shouf School Repo
+Label: SIS Repo
+Suite: stable
+Version: 1.0
+Codename: ios6
+Architectures: iphoneos-arm
+Components: main
+Description: Cool retro apps for my iPhone 4!
